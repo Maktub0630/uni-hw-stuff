@@ -1,0 +1,2 @@
+Accuracy of the network on test images: 91.08
+time required 2101.08s | num_epochs = 30 | step_size = 5 | learning_rate = 0.00110 | decay = 0.500
